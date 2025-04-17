@@ -1,0 +1,7 @@
+streamlit
+face_recognition
+Pillow
+uuid
+requests
+gdown
+dotenv
