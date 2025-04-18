@@ -4,4 +4,3 @@ Pillow
 uuid
 requests
 gdown
-dotenv
